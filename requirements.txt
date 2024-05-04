@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==2.2.1
+pylint==3.0.3
+pytest
+pytest-cov
+beautifulsoup4
+black
